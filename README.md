@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Hobbies: :musical_note: :chart_with_upwards_trend: :open_book: :dart: :camping:
 - 💬 Ask me about:question:   
 &nbsp;&nbsp;&nbsp;&nbsp;1. Nanobiotechnology :dna::petri_dish::pill:,   
-&nbsp;&nbsp;&nbsp;&nbsp;2. Cancer Therapy,
+&nbsp;&nbsp;&nbsp;&nbsp;2. Cancer Therapy,   
 &nbsp;&nbsp;&nbsp;&nbsp;3. Cellular Biology,   
 &nbsp;&nbsp;&nbsp;&nbsp;4. Nanotechnology :man_scientist::test_tube::microscope:,   
 &nbsp;&nbsp;&nbsp;&nbsp;5. Patent 
