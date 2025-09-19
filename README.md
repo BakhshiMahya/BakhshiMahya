@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - :mag_right: Learning :  Gene Therapy.
 - :handshake: I’m looking to collaborate on scientific papers:scroll: and writing books:books:!
 - Hobbies: :musical_note: :chart_with_upwards_trend: :open_book: :dart: :camping:
-- 💬 Ask me about:question:   
+- 💬 Ask me about :question:   
 &nbsp;&nbsp;&nbsp;&nbsp;1. Nanobiotechnology :dna::petri_dish::pill:,   
 &nbsp;&nbsp;&nbsp;&nbsp;2. Cancer Therapy,   
 &nbsp;&nbsp;&nbsp;&nbsp;3. Cellular Biology,   
